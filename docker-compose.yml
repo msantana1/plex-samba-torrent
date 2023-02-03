@@ -49,7 +49,7 @@ services:
     environment:
       - PUID=1002
       - PGID=1002
-      - TZ='America/Mexico_City'
+      - TZ=America/Mexico_City
       #- TRANSMISSION_WEB_HOME=/combustion-release/ #optional
       #- USER=username #optional
       #- PASS=password #optional
